@@ -1,0 +1,55 @@
+.container_padding{
+    padding-top: 10vh;
+    margin: 5vw;
+  }
+  .newletter{
+    background-color: orange;
+    color: #fff;
+    width:auto;
+    height: 15vh;
+  }
+  #copyright{
+    padding: 4vw;
+    margin-bottom: 0px;
+    color: grey;
+    text-align: center;
+  }
+  .box_link,.box_logo,.box_logo{
+    color: #000;
+  }
+  li{
+    list-style:none;
+    color: #000;    
+  }
+  ul{
+    padding-left: 0px;    
+    display: inline-block;
+  }
+  footer{
+    display: grid;
+    background-color: #ffff;
+  }
+  footer li::before {
+    content: "⟶";
+    padding-right: 1vw;
+    color: orange;
+  }
+  .box_logo_h1{
+    font-weight:900;
+  }
+  .box_logo_p{  
+    display: flex;  
+    margin-top: 3vh;
+    color: grey;    
+  }
+  .box_link h3{
+    color: orange;
+    padding-left: 2vw;
+  }
+.phoneNumber{
+  text-decoration: none;
+  color: black;
+}
+.phoneNumber:hover{
+  background: none;
+}

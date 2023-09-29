@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Java",
+        "post": "Comming soon...",
+        "desc": "Java is a widely used object-oriented programming language and software platform that runs on billions of devices, including notebook computers, mobile devices, gaming consoles, medical devices and many others. The rules and syntax of Java are based on the C and C++ languages.",
+        "cover": "../../../img/mainCourses/java.png"
+    },
+    {
+        "id": 2,
+        "name": "Python",
+        "post": "Comming soon...",
+        "desc": "Python is a programming language that has relatively simple syntax. This makes it an ideal choice for beginners who are just starting out in the field of programming. Python is also a very versatile language, which means that you can use i for a wide variety of tasks and in different industries.",
+        "cover": "../../../img/mainCourses/python.png"
+    },
+    {
+        "id": 3,
+        "name": "Database",
+        "post": "Comming soon...",
+        "desc": " A SQL script is a collection of two or more SQL statements, as opposed to a SQL query, which is a single statement. The goal of a SQL script is to combine similar statements in order to accomplish a more complicated edition in the database.",
+        "cover": "../../../img/mainCourses/database.png"
+    },
+    {
+        "id": 4,
+        "name": "C++",
+        "post": "Comming soon...",
+        "desc": " C++ is used in developing browsers, operating systems, and applications, as well as in-game programming, software engineering, data structures, etc.",
+        "cover": "../../../img/mainCourses/C++.png"
+    },
+    {
+        "id": 5,
+        "name": "c",
+        "post": "Comming soon...",
+        "desc": " The C language is a high-level, general-purpose programming language. It provides a straightforward, consistent, powerful interface for programming systems. That's why the C language is widely used for developing system software, application software, and embedded systems.",
+        "cover": "../../../img/mainCourses/C.png"
+    }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "cover": "../../../img/Courses_Details/o3.png",
+    "hoverCover": "../../../img/Courses_Details/Hover/o3.1.png",
+    "courseName": "C, C++",
+    "course": "Know More"
+  },
+  {
+    "id": 2,
+    "cover": "../../../img/Courses_Details/o5.png",
+    "hoverCover": "../../../img/Courses_Details/Hover/o5.1.png",
+    "courseName": "JAVA",
+    "course": "Know More"
+  },
+  {
+    "id": 3,
+    "cover": "../../../img/Courses_Details/o6.png",
+    "hoverCover": "../../../img/Courses_Details/Hover/o6.1.png",
+    "courseName": ".NET",
+    "course": "Know More"
+  },
+  {
+    "id": 4,
+    "cover": "../../../img/Courses_Details/o9.png",
+    "hoverCover": "../../../img/Courses_Details/o9.1.png",
+    "courseName": "PHP",
+    "course": "Know More"
+  },
+  {
+    "id": 5,
+    "cover": "../../../img/Courses_Details/o4.png",
+    "hoverCover": "../../../img/Courses_Details/o4.1.png",
+    "courseName": "PYTHON",
+    "course": "Know More"
+  },
+  {
+    "id": 6,
+    "cover":"../../../img/Courses_Details/o12.png",
+    "hoverCover": "../../../img/Courses_Details/o12.1.png",
+    "courseName": "REACT JS",
+    "course": "Know More"
+  },
+  {
+    "id": 7,
+    "cover": "../../../img/Courses_Details/o12.png",
+    "hoverCover": "../../../img/Courses_Details/o12.1.png",
+    "courseName": "REACT NATIVE",
+    "course": "Know More"
+  },
+  {
+    "id": 8,
+    "cover": "../../../img/Courses_Details/o11.png",
+    "hoverCover": "../../../img/Courses_Details/o11.1.png",
+    "courseName": "NODE JS",
+    "course": "Know More"
+  },
+  {
+    "id": 9,
+    "cover": "../../../img/Courses_Details/o8.png",
+    "hoverCover": "../../../img/Courses_Details/o8.1.png",
+    "courseName": "ANDROID",
+    "course": "Know More"
+  },
+  {
+    "id": 10,
+    "cover": "../../../img/Courses_Details/o11.png",
+    "hoverCover": "../../../img/Courses_Details/o11.1.png",
+    "courseName": "MASTERING DATABASE",
+    "course": "Know More"
+  },
+  {
+    "id": 11,
+    "cover": "../../../img/Courses_Details/o12.png",
+    "hoverCover": "../../../img/Courses_Details/o12.1.png",
+    "courseName": "WEB DESIGNING",
+    "course": "Know More"
+  },
+  {
+    "id": 12,
+    "cover": "../../../img/Courses_Details/o12.png",
+    "hoverCover": "../../../img/Courses_Details/o12.1.png",
+    "courseName": "WEB PROGRAMMING",
+    "course": "Know More"
+  }
+]

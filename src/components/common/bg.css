@@ -1,0 +1,6 @@
+.bgImageCommon{
+  background: url("../../Image/about_bg.jpg") no-repeat center left;
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+}

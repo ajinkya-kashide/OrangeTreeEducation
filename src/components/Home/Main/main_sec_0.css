@@ -1,0 +1,31 @@
+#main-sec_1_button {
+    padding-bottom: 2vh;
+  }
+  #sec1_h3_1 {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-align: left;
+    justify-content: left;
+  }
+  
+  #sec1_p_1,
+  #div-btn,
+  #sec1_h3_1 {
+    margin-right: 40vw;
+    margin-left: 10vw;
+    margin-top: 5vh;
+  }
+  
+  #view_course_btn {
+    font-weight: bold;
+    color: #fd6124;
+    padding: 1vw 3vh;
+    border-radius: 2vw 0vh 2vw 0vh;
+    border: none;
+  }
+  #view_course_btn:hover {
+    background-image: linear-gradient(29deg, #fd6124, #ff953fd0, #f7b27a7d);
+    cursor: pointer;
+    color: #f8f8f8;
+    border-radius: 2vw 0vh 2vw 0vh;
+  }

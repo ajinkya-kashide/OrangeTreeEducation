@@ -1,0 +1,61 @@
+.courses_Title {
+  background: white;
+  height: auto;
+  padding-bottom: 10vh;
+}
+.coursesCardSection h4 {
+  font-weight: bolder;
+  text-align: center;
+  color: orange;
+}
+.coursesCardSection h1 {
+  font-size: 9vh;
+  font-weight: 600;
+  color: black;
+  text-align: center;
+}
+.courses_Title {
+  padding-top: 25vh;
+  padding-bottom: 5vh;
+}
+#outer_div {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  margin: 1vw;
+}
+#coursesCardDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 3vh;
+  width: 14rem;
+  height: 20rem;
+  background-image: linear-gradient(150deg, #fd612451, #ff953f4f, #f7b27a4b);
+  box-shadow: 0 7px 15px -2px rgba(69, 69, 68, 0.803);
+  margin: 30px 20px;
+}
+#c_details {
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  font-weight: 500;
+}
+#knowMore {
+  transition: 1s;
+  inline-size: max-content;
+  border: black;
+  border-style: solid;
+  border-radius: 10px;
+  text-decoration: none;
+}
+#knowMore:hover {
+  background-image: linear-gradient(29deg, #fd6124, #ff953fd0, #f7b27a7d);
+  color: white;
+  border: black;
+  border-style: outset;
+  font-weight: 600;
+}

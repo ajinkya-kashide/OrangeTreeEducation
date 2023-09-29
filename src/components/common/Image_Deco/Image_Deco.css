@@ -1,0 +1,6 @@
+#img_deco {
+    background: url("/src/Image/imag.webp") no-repeat center;
+    background-size: cover;
+    width: auto;
+    height: 30vh;
+  }
